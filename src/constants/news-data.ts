@@ -1,0 +1,1 @@
+export const NEWS_DATA_FILE_NAME = "news_data.json"
